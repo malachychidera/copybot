@@ -7,7 +7,7 @@
         "copy"
     ],
     "website": "https://github.com/m4mallu/copybot",
-    "repository": "https://github.com/m4mallu/copybot",
+    "repository": "https://github.com/malachychidera/copybot",
     "env": {
         "TG_BOT_TOKEN": {"description": "Your Bot Token obtained from @botfather", "required": true},
         "API_HASH": {"description": "Your API Hash obtained from my.telegram.org", "required": true},
